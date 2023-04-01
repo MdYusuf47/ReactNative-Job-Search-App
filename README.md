@@ -1,7 +1,11 @@
 Link:exp://exp.host/@mrsolo47/Job-apps?release-channel=default
+![Screenshot 2023-04-02 010732](https://user-images.githubusercontent.com/77017477/229310965-81f6826d-a585-4289-b51c-16088904a095.png)
 # Expo Router Example
 
 Use [`expo-router`](https://expo.github.io/router) to build native navigation using files in the `app/` directory.
+
+
+
 
 ## 🚀 How to use
 
